@@ -17,6 +17,8 @@ sections:
   templates:
   - post
 - type: heading
+  label: Custom Section
+- type: heading
   label: Data
 - type: directory
   path: content/authors
